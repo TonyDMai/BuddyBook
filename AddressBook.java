@@ -26,7 +26,7 @@ public class AddressBook {
         AddressBook addressBook = new AddressBook();
         addressBook.addBuddy(buddy);
         addressBook.removeBuddy(buddy);
-
+        // Random Comment added on Github website
     }
 }
 
