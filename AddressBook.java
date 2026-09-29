@@ -27,6 +27,7 @@ public class AddressBook {
         addressBook.addBuddy(buddy);
         addressBook.removeBuddy(buddy);
         // This is the branch version
+        // Test update
     }
 }
 
